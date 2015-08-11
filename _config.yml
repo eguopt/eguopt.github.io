@@ -1,17 +1,13 @@
 name: White Paper
 markdown: redcarpet
 pygments: true
-url: http://vinitkumar.me/white-paper
+url: http://www.ilytt.com
 paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+description:     silencer's home
+intro: silencer's home
 logo:             logo.png
 disqus_shortname:
-# url: http://gotchacode.com
-#Comment out url when working locally to resolve base urls correctly
-#url:
 
-# Owner/author information
 owner:
   name:          ilytt
   avatar:         www.ilytt.com
